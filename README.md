@@ -16,6 +16,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 # Usage
 
-1. Simply change the personal details in the code for your name, student number and college.
+1. Simply change the personal details in the [index.html](https://github.com/PeiwenSun2000/BUPT-COVID19-QRCODE/blob/main/index.html) for your name, student number and college.
 
-2. Just deploy it on github.
+2. Just deploy it on github. 
+
+3. Enjoy!
